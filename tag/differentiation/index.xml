@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rishi Sharma</title>
-    <link>https://rishi-s8.github.io/author/rishi-sharma/</link>
-      <atom:link href="https://rishi-s8.github.io/author/rishi-sharma/index.xml" rel="self" type="application/rss+xml" />
-    <description>Rishi Sharma</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <title>Differentiation | Rishi Sharma</title>
+    <link>https://rishi-s8.github.io/tag/differentiation/</link>
+      <atom:link href="https://rishi-s8.github.io/tag/differentiation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Differentiation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rishi-s8.github.io/author/rishi-sharma/avatar_hu031416863804d4dab7f9681a0807c395_1296802_270x270_fill_q90_lanczos_center.jpg</url>
-      <title>Rishi Sharma</title>
-      <link>https://rishi-s8.github.io/author/rishi-sharma/</link>
+      <url>https://rishi-s8.github.io/img/rishi_cologne.jpg</url>
+      <title>Differentiation</title>
+      <link>https://rishi-s8.github.io/tag/differentiation/</link>
     </image>
     
     <item>
@@ -135,14 +135,6 @@ $$\frac{\partial y}{\partial x} = (e^{sin(x)}) + (cos(x) \cdot e^{sin(x)} \cdot 
 &lt;p&gt;Finally, there are some problems where you are directly given the Computational Graph and you need to find the derivative. The best examples are Multi-layer Perceptrons and Recurrent Neural Networks. It is quite tedious to derive the backpropagation algorithms for these. Now, using the computational graph (in this case, the architecture diagram itself), we can easily derive the backpropagation algorithm. I urge you to try it out. I&amp;rsquo;ll discuss these in a later tutorial.&lt;/p&gt;
 &lt;p&gt;Thank you for reading. :)&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>What the Flag (WTF) 2019 Editorial</title>
-      <link>https://rishi-s8.github.io/post/wtf-editorial/</link>
-      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://rishi-s8.github.io/post/wtf-editorial/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rishi Sharma</title>
-    <link>https://rishi-s8.github.io/author/rishi-sharma/</link>
-      <atom:link href="https://rishi-s8.github.io/author/rishi-sharma/index.xml" rel="self" type="application/rss+xml" />
-    <description>Rishi Sharma</description>
+    <title>Posts | Rishi Sharma</title>
+    <link>https://rishi-s8.github.io/post/</link>
+      <atom:link href="https://rishi-s8.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://rishi-s8.github.io/author/rishi-sharma/avatar_hu031416863804d4dab7f9681a0807c395_1296802_270x270_fill_q90_lanczos_center.jpg</url>
-      <title>Rishi Sharma</title>
-      <link>https://rishi-s8.github.io/author/rishi-sharma/</link>
+      <url>https://rishi-s8.github.io/img/rishi_cologne.jpg</url>
+      <title>Posts</title>
+      <link>https://rishi-s8.github.io/post/</link>
     </image>
     
     <item>
