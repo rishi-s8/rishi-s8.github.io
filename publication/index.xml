@@ -5,12 +5,57 @@
     <link>https://rishi-s8.github.io/publication/</link>
       <atom:link href="https://rishi-s8.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://rishi-s8.github.io/img/rishi_cologne.jpg</url>
+      <url>https://rishi-s8.github.io/media/rishi_cologne.jpg</url>
       <title>Publications</title>
       <link>https://rishi-s8.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>EinsteinPy: A Community Python Package for General Relativity</title>
+      <link>https://rishi-s8.github.io/publication/preprint/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://rishi-s8.github.io/publication/preprint/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Online Low-Cost System for Air Quality Monitoring, Prediction, and Warning </title>
+      <link>https://rishi-s8.github.io/publication/conference-paper/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://rishi-s8.github.io/publication/conference-paper/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
