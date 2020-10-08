@@ -176,6 +176,14 @@ $$\frac{\partial y}{\partial x} = (e^{sin(x)}) + (cos(x) \cdot e^{sin(x)} \cdot 
     </item>
     
     <item>
+      <title>CNFCrack</title>
+      <link>https://rishi-s8.github.io/project/cnf-crack/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://rishi-s8.github.io/project/cnf-crack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An Online Low-Cost System for Air Quality Monitoring, Prediction, and Warning </title>
       <link>https://rishi-s8.github.io/publication/conference-paper/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
