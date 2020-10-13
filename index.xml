@@ -176,6 +176,14 @@ $$\frac{\partial y}{\partial x} = (e^{sin(x)}) + (cos(x) \cdot e^{sin(x)} \cdot 
     </item>
     
     <item>
+      <title>Adversarial training for blind-spot removal</title>
+      <link>https://rishi-s8.github.io/talk/iterative-hardening/</link>
+      <pubDate>Fri, 07 Feb 2020 13:00:00 +0000</pubDate>
+      <guid>https://rishi-s8.github.io/talk/iterative-hardening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CNFCrack</title>
       <link>https://rishi-s8.github.io/project/cnf-crack/</link>
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
